@@ -17,8 +17,13 @@ I avoided adding extra libraries unless necessary — the goal is to understand 
 ## Getting Started
 
 1. Clone the repo:
+via ssh key
 ```bash
 git clone git@github.com:Hamzeh-Dev/React-By-Building.git
+```
+or via https
+```bash
+git clone https://github.com/Hamzeh-Dev/React-By-Building.git
 ```
 
 2. Navigate to the project you want to run:
