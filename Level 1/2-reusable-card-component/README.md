@@ -14,7 +14,7 @@ git clone git@github.com:Hamzeh-Dev/React-By-Building.git
 
 2. Navigate to the project:
 ```bash
-cd 2-reusable-card-component
+cd .\level 1\2-reusable-card-component
 ```
 
 3. Install dependencies:

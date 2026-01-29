@@ -18,7 +18,7 @@ git clone git@github.com:Hamzeh-Dev/React-By-Building.git
 
 2. Navigate to the project:
 ```bash
-cd 4-dynamic-render
+cd .\level 1\4-dynamic-render
 ```
 
 3. Install dependencies:
