@@ -43,7 +43,7 @@ This repo is organized into **three levels** to help you progress from beginner 
 - Dynamic rendering / loading states
 
 **Recommendation self-project after Level 1:**  
-Build a **small quiz app** where users answer questions and see their score dynamically.
+Build a **Notes app** where users write, read, edit, and delete notes.
 
 ---
 
