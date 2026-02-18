@@ -27,7 +27,7 @@ git clone git@github.com:Hamzeh-Dev/React-By-Building.git
 2. Navigate to the project:
 
 ```bash
-cd level-2/4-edit-image
+cd '.\Level 2\4-edit-image'
 ```
 
 3. Install dependencies:

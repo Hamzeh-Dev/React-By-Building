@@ -37,7 +37,7 @@ git clone git@github.com:Hamzeh-Dev/React-By-Building.git
 2. Navigate to the project:
 
 ```bash
-cd level-2/3-multi-step-form
+cd '.\Level 2\3-multi-step-form\'
 ```
 
 3. Install dependencies:

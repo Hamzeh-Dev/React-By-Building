@@ -39,7 +39,7 @@ git clone git@github.com:Hamzeh-Dev/React-By-Building.git
 2. Navigate to the project:
 
 ```bash
-cd level-1/7-theme-switcher
+cd '.\Level 1\7-theme-switcher'
 ```
 
 3. Install dependencies:

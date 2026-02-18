@@ -28,7 +28,7 @@ git clone git@github.com:Hamzeh-Dev/React-By-Building.git
 
 2. Navigate to the project:
 ```bash
-cd .\level 1\3-live-input
+cd '.\Level 1\3-live-input'
 ```
 
 3. Install dependencies:

@@ -90,7 +90,7 @@ git clone https://github.com/Hamzeh-Dev/React-By-Building.git
 2. Navigate to the project you want to run:
 
 ```bash
-cd .\level 1\1-counter
+cd '.\Level 1\1-counter'
 ```
 
 3. Install dependencies:

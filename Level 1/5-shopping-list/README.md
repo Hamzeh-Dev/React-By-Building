@@ -19,7 +19,7 @@ git clone git@github.com:Hamzeh-Dev/React-By-Building.git
 
 2. Navigate to the project:
 ```bash
-cd .\level 1\5-shopping-list
+cd '.\Level 1\5-shopping-list'
 ```
 
 3. Install dependencies:
